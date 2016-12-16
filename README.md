@@ -1,11 +1,15 @@
 
+
 # MIDIUSBcommands
 
 Detailed description is inclided in header file
+
 MIDI messages based on MIDI specifications
+
 functions' names are more or less same as MIDI command's names 
 
 Not all Control Change (CC) commands are included, though they can be called using Control Change (controlChg) function 
+
 You can find detiled description of CC in MIDI Control Change Messages Table [3]
 
 based on:
