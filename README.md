@@ -1,6 +1,6 @@
-
-
 # MIDIUSBcommands
+
+Addition to https://github.com/rkistner/arcore
 
 Detailed description is included in header file
 
