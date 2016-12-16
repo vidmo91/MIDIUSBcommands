@@ -2,11 +2,11 @@
 
 # MIDIUSBcommands
 
-Detailed description is inclided in header file
+Detailed description is included in header file
 
-MIDI messages based on MIDI specifications
+MIDI messages are based on MIDI specifications
 
-functions' names are more or less same as MIDI command's names 
+Functions' names are more or less same as MIDI commands' names 
 
 Not all Control Change (CC) commands are included, though they can be called using Control Change (controlChg) function 
 
