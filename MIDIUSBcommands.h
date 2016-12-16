@@ -1,4 +1,4 @@
-//Made by M.Widomski mateuszwidomski@gmail.com
+//Made by M.Widomski github.com/vidmo91
 //
 //MIDI messages based on MIDI specifications
 //functions' names are more or less same as MIDI command's names 
